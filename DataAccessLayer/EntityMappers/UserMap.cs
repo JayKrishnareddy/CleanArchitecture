@@ -19,7 +19,7 @@ namespace DataAccessLayer.EntityMappers
                    .HasColumnName("first_name")
                    .HasColumnType("NVARCHAR(100)")
                    .IsRequired();
-            builder.Property(x => x.FirstName)
+            builder.Property(x => x.LastName)
                    .HasColumnName("last_name")
                    .HasColumnType("NVARCHAR(100)")
                    .IsRequired();
