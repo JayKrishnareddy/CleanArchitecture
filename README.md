@@ -1,5 +1,5 @@
 
-## Clean Architecture in ASP.NET Core 5.0 including JWT Authentication, Swagger, Versioning of API's, Automapper, Dependency Injection. 
+## Clean Architecture in ASP.NET Core 5.0 
 
 ### What we are going to cover in this .NET 5 Clean Architecture?
 - Entity Framework Code First Approach 
