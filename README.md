@@ -14,5 +14,5 @@ If you want to learn more about this Article 👇🏻
 
 [**C# Corner**](https://www.c-sharpcorner.com/article/clean-architecture-end-to-end-in-net-5/ "C# Corner")
 
-[**Medium**](https://jaykrishnareddy.medium.com/clean-architecture-end-to-end-in-net-5-c9eb2c39ca7b "Medium")
+[**Medium**](https://jaykrishnareddy.medium.com/entity-framework-core-power-tools-in-asp-net-core-web-api-a1e7dee56534 "Medium")
 
