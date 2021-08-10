@@ -1,6 +1,8 @@
 
 ## Clean Architecture in ASP.NET Core 5.0 
 
+![Alt Text](https://github.com/JayKrishnareddy/CleanArchitecture/blob/master/1_Tpfkss_hdHNyaaJ_3bBgWQ.png)
+
 ### What we are going to cover in this .NET 5 Clean Architecture?
 - Entity Framework Code First Approach 
 - Dependency Injection
