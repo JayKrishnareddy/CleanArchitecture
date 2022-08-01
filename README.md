@@ -19,3 +19,5 @@ If you want to learn more about this Article 👇🏻
 [**Medium**](https://medium.com/nerd-for-tech/clean-architecture-end-to-end-in-net-5-c9eb2c39ca7b "Medium")
 
 [**Hashnode**](https://jaykrishnareddy.hashnode.dev/clean-architecture-end-to-end-in-net-5 "Hashnode")
+
+If you liked the repo then kindly support it by giving it a star ⭐
